@@ -1,5 +1,8 @@
 PROJETO PRÁTICO INTERDISCIPLINAR I
-O desafio é criar essa página utilizando HTML e CSS. Siga as instruções abaixo:
+
+O desafio é criar essa página utilizando HTML e CSS. 
+
+Siga as instruções abaixo:
 
 a)	Crie uma página HTML chamada "menu.html".
 
@@ -23,3 +26,5 @@ f)	Utilize CSS para estilizar a página e os elementos, aplicando uma formataç�
 g)	Adicione imagens de pratos (você pode usar imagens de exemplo ou criar suas próprias) para tornar o menu mais atrativo.
 
 h)	Implemente um rodapé com informações de contato fictícias para o restaurante.
+
+Acesse o projeto em https://williamfc-git.github.io/projeto-pratico-interdisciplinar-1/
